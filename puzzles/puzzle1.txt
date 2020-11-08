@@ -1,0 +1,12 @@
+#    -     -     - 
+#    O     -     O 
+#    -     -     O 
+#row
+3
+#column
+3
+# default tent/tree
+# tree locations
+2,2,O
+1,0,O
+1,2,O

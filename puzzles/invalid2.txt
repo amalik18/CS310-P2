@@ -1,0 +1,14 @@
+# size of grid
+# row
+3
+# column
+4
+# type
+# String
+# empty cell
+# -
+# non-empty cells
+0,0,O
+1,6,O
+2,0,x
+3,3,5y

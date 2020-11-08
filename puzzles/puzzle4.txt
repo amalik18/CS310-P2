@@ -1,0 +1,17 @@
+# a 5 by 5 puzzle
+#    -     O     -     -     - 
+#    -     O     -     -     O 
+#    -     -     -     -     - 
+#    O     O     -     O     O 
+#    -     -     -     -     - 
+5
+5
+# default tree
+# init symbols
+1,4,O
+3,4,O
+3,3,O
+0,1,O
+1,1,O
+3,1,O
+3,0,O

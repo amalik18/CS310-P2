@@ -1,0 +1,21 @@
+# a 7 by 7 puzzle
+#    -     O     -     -     - 
+#    -     O     -     -     O 
+#    -     -     -     -     - 
+#    O     O     -     O     O 
+#    -     -     -     -     - 
+7
+7
+# default tree
+# init symbols
+1,4,O
+6,5,O
+2,0,O
+2,3,O
+2,1,X
+5,6,O
+1,6,O
+2,5,O
+4,0,O
+4,6,X
+5,2,O

@@ -1,0 +1,15 @@
+# this is the same puzzle as puzzle1
+# with different tree/tent symbols
+#    -     -     - 
+#    T     -     T 
+#    -     -     T 
+3
+3
+# tent symbol
+V
+# tree symbol
+T
+# init symbols
+2,2,T
+1,0,T
+1,2,T

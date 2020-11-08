@@ -1,0 +1,9 @@
+# size of grid
+# row
+4
+# column
+5
+0,0,Y
+1,1,O
+2,0,O
+

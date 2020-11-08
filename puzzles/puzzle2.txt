@@ -1,0 +1,19 @@
+# this is the solution of puzzle1.txt
+#    X     -     X 
+#    O     -     O 
+#    -     X     O 
+# number of rows
+3
+# number of cols
+3
+# tent symbol
+X
+# tree symbol
+O
+#positions for trees and tents
+0,0,X
+0,2,X
+1,0,O
+1,2,O
+2,1,X
+2,2,O
