@@ -353,8 +353,8 @@ class TentTree{
     public static void main(String[] args){
 
         TentTree g1 = new TentTree(4,5,"Tent","Tree");
-        if (g1.numRows()==4 && g1.numCols()==5 && g1.getTentSymbol().equals("Tent")
-                && g1.getTreeSymbol().equals("Tree")){
+        if (g1.numRows()==4 && g1.numCols()==5 && "Tent".equals(g1.getTentSymbol())
+                && "Tree".equals(g1.getTreeSymbol())){
             System.out.println("Yay 1");
         }
 

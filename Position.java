@@ -94,7 +94,7 @@ class Position{
         Position p3 = new Position(2,6);
         Position p4 = new Position(2,6);
 
-        if (p1.getRow()==3 && p1.getCol()==5 && p1.toString().equals("<3,5>")){
+        if (p1.getRow()==3 && p1.getCol()==5 && "<3,5>".equals(p1.toString())){
             System.out.println("Yay 1");
         }
 
