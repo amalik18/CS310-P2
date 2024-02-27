@@ -126,7 +126,7 @@ class PA2{
 
             // rest of lines specify initial positions of trees and tents
             // one cell per line in this format: "row,col,symbol"
-            while (!line.equals("")){
+            while (!"".equals(line)){
                 String[] oneCellString = line.split(",");
                 if (oneCellString.length!=3)
                     throw new RuntimeException("invalid file format!");
